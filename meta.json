@@ -6,17 +6,8 @@
   "tags": [],
   "url": "https://github.com/tandy-1000/uniony",
   "refs": [
-    "refs/heads/master",
+    "refs/heads/devel",
     ""
   ],
-  "heads": [
-    {
-      "description": "A jsony plugin to enable union support",
-      "license": "MIT",
-      "name": "github-tandy-1000-uniony",
-      "ref": "refs/heads/master",
-      "url": "https://github.com/tandy-1000/uniony",
-      "version": "master"
-    }
-  ]
+  "heads": []
 }
