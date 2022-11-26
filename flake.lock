@@ -182,11 +182,11 @@
       },
       "locked": {
         "dir": "devel",
-        "lastModified": 1669419021,
-        "narHash": "sha256-7YyaSW1y3Y5MSANOywAEe6BdjTSjO1lttYnZn82dpoY=",
+        "lastModified": 1669431124,
+        "narHash": "sha256-Giofj1ny4GZV1u8g8ZQ6lG3vvQj0dKr39Iv/X6Jvt78=",
         "owner": "nim-nix-pkgs",
         "repo": "github-tandy-1000-uniony",
-        "rev": "75721f6f83b122c1bc218cc22b784e7241a6a9fb",
+        "rev": "315c4625e2af34456600cc5462e19299522abff9",
         "type": "github"
       },
       "original": {
